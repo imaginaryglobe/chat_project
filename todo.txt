@@ -1,2 +1,6 @@
 1. create a server and client
 2. create a ui
+
+networks
+security
+databases
